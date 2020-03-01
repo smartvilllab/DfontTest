@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     TextView TvFontDiolR;
     EditText EtInput;
 
-    String mDefaultText = "다람쥐 헌 쳇바퀴에 타고파 1234567890 ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz !?@*";
+    String mDefaultText = "ㅋㅋㅋ다람쥐 헌 쳇바퀴에 타고파 1234567890 ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz !?@*";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
