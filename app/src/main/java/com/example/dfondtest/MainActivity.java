@@ -48,7 +48,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         TvFontDiolR.setText(mDefaultText);
 
         EtInput = (EditText)findViewById(R.id.editText_input);
-        // test
+        
     }
 
     @Override
